@@ -1,0 +1,5 @@
+[
+  { "name": "Starter", "status": "active", "basePrice": 49, "includedUsage": 10000 },
+  { "name": "Growth", "status": "active", "basePrice": 199, "includedUsage": 100000 },
+  { "name": "Legacy API", "status": "archived", "basePrice": 99, "includedUsage": 50000 }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "INV-1001", "customer": "Acme AI", "status": "paid", "amount": 2400, "createdAt": "2026-05-01" },
+  { "id": "INV-1002", "customer": "Northstar Labs", "status": "open", "amount": 840, "createdAt": "2026-05-02" },
+  { "id": "INV-1003", "customer": "Orbit CRM", "status": "draft", "amount": 1125, "createdAt": "2026-05-03" },
+  { "id": "INV-1004", "customer": "PromptStack", "status": "void", "amount": 320, "createdAt": "2026-05-04" },
+  { "id": "INV-1005", "customer": "Ledgerly", "status": "paid", "amount": 5900, "createdAt": "2026-05-05" },
+  { "id": "INV-1006", "customer": "VectorOps", "status": "open", "amount": 760, "createdAt": "2026-05-06" }
+]

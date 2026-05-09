@@ -1,0 +1,13 @@
+node_modules
+src
+.storybook/main.ts
+.storybook/preview.ts
+vitest.config.ts
+tsconfig.json
+postcss.config.js
+tailwind.config.js
+vite.config.ts
+*.test.ts
+*.test.tsx
+.gitignore
+README.md
