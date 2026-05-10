@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { expect, within } from '@storybook/test';
-import tiers from '../data/tiers.json';
+import { tiers } from '../data/tiers';
 import { PricingTierTable } from '../components/organisms/PricingTierTable';
 
 const meta = {

@@ -1,11 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { expect, userEvent, within } from '@storybook/test';
-import invoices from '../data/invoices.json';
+import { invoices, type Invoice } from '../data/invoices';
 import { DataTable, type Column } from '../components/molecules/DataTable';
 import { InvoiceStatusBadge } from '../components/molecules/InvoiceStatusBadge';
 import { formatCurrency, type BillingStatus } from '../utils/billing';
-
-type Invoice = (typeof invoices)[number];
 
 const columns: Column<Invoice>[] = [
   { key: 'id', header: 'Invoice', sortable: true },
