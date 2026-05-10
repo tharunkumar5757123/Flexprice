@@ -1,7 +1,0 @@
-node_modules
-*.test.ts
-*.test.tsx
-.gitignore
-README.md
-storybook-dev.err.log
-storybook-dev.log
